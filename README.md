@@ -1,2 +1,2 @@
 # firstSteps
-firstSteps
+tailwindcss using javascript
